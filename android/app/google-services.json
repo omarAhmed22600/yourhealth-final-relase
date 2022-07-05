@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "768702903245",
+    "project_id": "sehetak-72388",
+    "storage_bucket": "sehetak-72388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768702903245:android:9b5342e4283b0537f74a84",
+        "android_client_info": {
+          "package_name": "com.example.sehetak2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768702903245-q9qapg8d0k3lcbk03h43q00r1u6ed1nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sehetak2",
+            "certificate_hash": "e81ab5983bd50b37c41807cef9a0363514287b3b"
+          }
+        },
+        {
+          "client_id": "768702903245-bkrj82bios19em186rgf93cp1bh85des.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDPtxIlALKU5FsTUPa8s2BS7Npylhlrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768702903245-bkrj82bios19em186rgf93cp1bh85des.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
