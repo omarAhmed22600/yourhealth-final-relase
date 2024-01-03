@@ -1,17 +1,22 @@
-# sehetak2
+# YourHealth
 
-A new Flutter project.
+-Medical field is one of the most important human requirements, our goal is to 
+provide all medical services for the user.
+This Application tends to help you care about your health if you don’t have time
+to go to a hospital or a clinic or even to a pharmacy as the application has ecommerce for medicines and cosmetics if you want to buy your medicines
+online.
 
-## Getting Started
+-In addition to if you want to get a doctor’s advice or medical consultation and 
+get his prescription all in your home, with SOS feature which helps you get help 
+ASAP as it calls the 123 emergencies in a click of button, and there is a special section in the application for Initial Diagnosis that takes the 
+user problems in the form of symptoms and show them the possible diseases they 
+have and get a doctor’s advice as soon as you finish the diagnosis.
 
-This project is a starting point for a Flutter application.
+-This application aims to save the user's time and money as most of the application 
+feature known to take time and money like taking a doctor's consultation, the 
+doctor's clinic or hospital could be far away from you so it may take your time and 
+money to go there.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 <img width="675" alt="Untitled design (1)" src="https://user-images.githubusercontent.com/55793940/150621282-671c7caa-d2b2-4048-a952-2521f141128b.png">
